@@ -1,0 +1,718 @@
+districts,statecode,population
+Nicobars,AN,36842
+North and Middle Andaman,AN,105597
+South Andaman,AN,238142
+Anantapur,AP,4083315
+Chittoor,AP,4170468
+East Godavari,AP,5151549
+Guntur,AP,4889230
+Krishna,AP,4529009
+Kurnool,AP,4046601
+Prakasam,AP,3392764
+S.P.S. Nellore,AP,2966082
+Srikakulam,AP,2699471
+Visakhapatnam,AP,4288113
+Vizianagaram,AP,2342868
+West Godavari,AP,3934782
+Y.S.R. Kadapa,AP,2884524
+Anjaw,AR,21089
+Capital Complex,AR,0
+Changlang,AR,147951
+East Kameng,AR,78413
+East Siang,AR,99019
+Kamle,AR,22256
+Kra Daadi,AR,0
+Kurung Kumey,AR,89717
+Lepa Rada,AR,0
+Lohit,AR,145538
+Longding,AR,60000
+Lower Dibang Valley,AR,53986
+Lower Siang,AR,80597
+Lower Subansiri,AR,82839
+Namsai,AR,95950
+Pakke Kessang,AR,0
+Papum Pare,AR,176385
+Shi Yomi,AR,13310
+Siang,AR,31920
+Tawang,AR,49950
+Tirap,AR,111997
+Upper Dibang Valley,AR,7948
+Upper Siang,AR,35289
+Upper Subansiri,AR,83205
+West Kameng,AR,87013
+West Siang,AR,112272
+Baksa,AS,953773
+Barpeta,AS,1693190
+Biswanath,AS,612491
+Bongaigaon,AS,732639
+Cachar,AS,1736319
+Chirang,AS,481818
+Darrang,AS,908090
+Dhemaji,AS,688077
+Dhubri,AS,1948632
+Dibrugarh,AS,1327748
+Dima Hasao,AS,213529
+Goalpara,AS,1008959
+Golaghat,AS,1058674
+Hailakandi,AS,659260
+Hojai,AS,931218
+Jorhat,AS,1091295
+Kamrup,AS,1517202
+Kamrup Metropolitan,AS,1260419
+Karbi Anglong,AS,965280
+Karimganj,AS,1217002
+Kokrajhar,AS,886999
+Lakhimpur,AS,1040644
+Majuli,AS,167304
+Morigaon,AS,957853
+Nagaon,AS,2826006
+Nalbari,AS,769919
+Sivasagar,AS,1150253
+Sonitpur,AS,1925975
+South Salmara Mankachar,AS,555114
+Tinsukia,AS,1316948
+Udalguri,AS,832769
+West Karbi Anglong,AS,300320
+Araria,BR,2806200
+Arwal,BR,700843
+Aurangabad,BR,2511243
+Banka,BR,2029339
+Begusarai,BR,2954367
+Bhagalpur,BR,3032226
+Bhojpur,BR,2720155
+Buxar,BR,1707643
+Darbhanga,BR,3921971
+East Champaran,BR,5082868
+Gaya,BR,4379383
+Gopalganj,BR,2558037
+Jamui,BR,1756078
+Jehanabad,BR,1124176
+Kaimur,BR,1626900
+Katihar,BR,3068149
+Khagaria,BR,1657599
+Kishanganj,BR,1690948
+Lakhisarai,BR,1000717
+Madhepura,BR,1994618
+Madhubani,BR,4476044
+Munger,BR,1359054
+Muzaffarpur,BR,4778610
+Nalanda,BR,2872523
+Nawada,BR,2216653
+Patna,BR,5772804
+Purnia,BR,3273127
+Rohtas,BR,2962593
+Saharsa,BR,1897102
+Samastipur,BR,4254782
+Saran,BR,3943098
+Sheikhpura,BR,634927
+Sheohar,BR,656916
+Sitamarhi,BR,3419622
+Siwan,BR,3318176
+Supaul,BR,2228397
+Vaishali,BR,3495021
+West Champaran,BR,3935042
+Chandigarh,CH,1055450
+Balod,CT,826165
+Baloda Bazar,CT,1305343
+Balrampur,CT,598855
+Bametara,CT,197035
+Bastar,CT,1302253
+Bijapur,CT,229832
+Bilaspur,CT,1961922
+Dakshin Bastar Dantewada,CT,533638
+Dhamtari,CT,799199
+Durg,CT,3343079
+Gariaband,CT,597653
+Gaurela Pendra Marwahi,CT,0
+Janjgir Champa,CT,1620632
+Jashpur,CT,852043
+Kabeerdham,CT,584667
+Kondagaon,CT,578326
+Korba,CT,1206563
+Koriya,CT,659039
+Mahasamund,CT,1032275
+Mungeli,CT,701707
+Narayanpur,CT,140206
+Raigarh,CT,1493627
+Raipur,CT,4062160
+Rajnandgaon,CT,1537520
+Sukma,CT,249000
+Surajpur,CT,660280
+Surguja,CT,420661
+Uttar Bastar Kanker,CT,748593
+Delhi,DL,19814000
+Dadra and Nagar Haveli,DN,343709
+Daman,DN,191173
+Diu,DN,52074
+North Goa,GA,817761
+South Goa,GA,639962
+Ahmedabad,GJ,7208200
+Amreli,GJ,1513614
+Anand,GJ,2090276
+Aravalli,GJ,1051746
+Banaskantha,GJ,3116045
+Bharuch,GJ,1550822
+Bhavnagar,GJ,2877961
+Botad,GJ,656005
+Chhota Udaipur,GJ,1071831
+Dahod,GJ,2126558
+Dang,GJ,226769
+Devbhumi Dwarka,GJ,752484
+Gandhinagar,GJ,1387478
+Gir Somnath,GJ,1217477
+Jamnagar,GJ,2159130
+Junagadh,GJ,2742291
+Kheda,GJ,2298934
+Kutch,GJ,2090313
+Mahisagar,GJ,994624
+Mehsana,GJ,2027727
+Morbi,GJ,960329
+Narmada,GJ,590379
+Navsari,GJ,1330711
+Other State,GJ,0
+Panchmahal,GJ,2388267
+Patan,GJ,1342746
+Porbandar,GJ,586062
+Rajkot,GJ,3157676
+Sabarkantha,GJ,2427346
+Surat,GJ,4996391
+Surendranagar,GJ,1755873
+Tapi,GJ,806489
+Vadodara,GJ,3639775
+Valsad,GJ,1703068
+Bilaspur,HP,382056
+Chamba,HP,518844
+Hamirpur,HP,454293
+Kangra,HP,1507223
+Kinnaur,HP,84298
+Kullu,HP,437474
+Lahaul and Spiti,HP,31528
+Mandi,HP,999518
+Shimla,HP,813384
+Sirmaur,HP,530164
+Solan,HP,576670
+Una,HP,521057
+Ambala,HR,1136784
+Bhiwani,HR,1629109
+Charkhi Dadri,HR,502276
+Faridabad,HR,1798954
+Fatehabad,HR,941522
+Gurugram,HR,1514085
+Hisar,HR,1742815
+Jhajjar,HR,956907
+Jind,HR,1332042
+Kaithal,HR,1072861
+Karnal,HR,1506323
+Kurukshetra,HR,964231
+Mahendragarh,HR,921680
+Nuh,HR,1089406
+Palwal,HR,1040493
+Panchkula,HR,558890
+Panipat,HR,1202811
+Rewari,HR,896129
+Rohtak,HR,1058683
+Sirsa,HR,1295114
+Sonipat,HR,1480080
+Yamunanagar,HR,1214162
+Bokaro,JH,2061918
+Chatra,JH,1042304
+Deoghar,JH,1491879
+Dhanbad,JH,2682662
+Dumka,JH,1321096
+East Singhbhum,JH,2291032
+Garhwa,JH,1322387
+Giridih,JH,2445203
+Godda,JH,1311382
+Gumla,JH,1025656
+Hazaribagh,JH,1734005
+Jamtara,JH,790207
+Khunti,JH,530299
+Koderma,JH,717169
+Latehar,JH,725673
+Lohardaga,JH,461738
+Pakur,JH,899200
+Palamu,JH,1936319
+Ramgarh,JH,949159
+Ranchi,JH,2912022
+Sahibganj,JH,1150038
+Saraikela-Kharsawan,JH,1063458
+Simdega,JH,599813
+West Singhbhum,JH,1501619
+Anantnag,JK,1070144
+Bandipora,JK,385099
+Baramulla,JK,1015503
+Budgam,JK,735753
+Doda,JK,409576
+Ganderbal,JK,297003
+Jammu,JK,1526406
+Kathua,JK,615711
+Kishtwar,JK,230696
+Kulgam,JK,422786
+Kupwara,JK,875564
+Pulwama,JK,570060
+Punch,JK,476820
+Rajouri,JK,619266
+Ramban,JK,283313
+Reasi,JK,314714
+Samba,JK,318611
+Shopiyan,JK,265960
+Srinagar,JK,1269751
+Udhampur,JK,555357
+Bagalkote,KA,1890826
+Ballari,KA,2532383
+Belagavi,KA,4778439
+Bengaluru Rural,KA,987257
+Bengaluru Urban,KA,9588910
+Bidar,KA,1700018
+Chamarajanagara,KA,1020962
+Chikkaballapura,KA,1254377
+Chikkamagaluru,KA,1137753
+Chitradurga,KA,1660378
+Dakshina Kannada,KA,2083625
+Davanagere,KA,1946905
+Dharwad,KA,1846993
+Gadag,KA,1065235
+Hassan,KA,1776221
+Haveri,KA,1598506
+Kalaburagi,KA,2564892
+Kodagu,KA,554762
+Kolar,KA,1540231
+Koppal,KA,1391292
+Mandya,KA,1808680
+Mysuru,KA,2994744
+Raichur,KA,1924773
+Ramanagara,KA,1082739
+Shivamogga,KA,1755512
+Tumakuru,KA,2681449
+Udupi,KA,1177908
+Uttara Kannada,KA,1353299
+Vijayapura,KA,2175102
+Yadgir,KA,1172985
+Alappuzha,KL,2121943
+Ernakulam,KL,3279860
+Idukki,KL,1107453
+Kannur,KL,2525637
+Kasaragod,KL,1302600
+Kollam,KL,2629703
+Kottayam,KL,1979384
+Kozhikode,KL,3089543
+Malappuram,KL,4110956
+Palakkad,KL,2810892
+Pathanamthitta,KL,1195537
+Thiruvananthapuram,KL,3307284
+Thrissur,KL,3110327
+Wayanad,KL,816558
+Kargil,LA,143000
+Leh,LA,147000
+Lakshadweep,LD,64473
+Ahmednagar,MH,4543083
+Akola,MH,1818617
+Amravati,MH,2887826
+Aurangabad,MH,3695928
+Beed,MH,2585962
+Bhandara,MH,1198810
+Buldhana,MH,2588039
+Chandrapur,MH,2194262
+Dhule,MH,2048781
+Gadchiroli,MH,1071795
+Gondia,MH,1322331
+Hingoli,MH,1178973
+Jalgaon,MH,4224442
+Jalna,MH,1958483
+Kolhapur,MH,3874015
+Latur,MH,2455543
+Mumbai,MH,12442373
+Nagpur,MH,4653171
+Nanded,MH,3356566
+Nandurbar,MH,1646177
+Nashik,MH,6109052
+Osmanabad,MH,1660311
+Palghar,MH,2990116
+Parbhani,MH,1835982
+Pune,MH,9426959
+Raigad,MH,2635394
+Ratnagiri,MH,1612672
+Sangli,MH,2820575
+Satara,MH,3003922
+Sindhudurg,MH,848868
+Solapur,MH,4315527
+Thane,MH,11060148
+Wardha,MH,1296157
+Washim,MH,1196714
+Yavatmal,MH,2775457
+East Garo Hills,ML,317618
+East Jaintia Hills,ML,122436
+East Khasi Hills,ML,824059
+North Garo Hills,ML,118325
+Ribhoi,ML,258380
+South Garo Hills,ML,142574
+South West Garo Hills,ML,172495
+South West Khasi Hills,ML,110152
+West Garo Hills,ML,642923
+West Jaintia Hills,ML,270352
+West Khasi Hills,ML,385601
+Bishnupur,MN,240363
+Chandel,MN,144028
+Churachandpur,MN,271274
+Imphal East,MN,452661
+Imphal West,MN,514683
+Jiribam,MN,43818
+Kakching,MN,135481
+Kamjong,MN,45616
+Pherzawl,MN,47250
+Senapati,MN,354772
+Tamenglong,MN,140143
+Thoubal,MN,420517
+Ukhrul,MN,183115
+Alirajpur,MP,728677
+Anuppur,MP,749521
+Ashoknagar,MP,844979
+Balaghat,MP,1701156
+Barwani,MP,1385659
+Betul,MP,1575247
+Bhind,MP,1703562
+Bhopal,MP,2368145
+Burhanpur,MP,756993
+Chhatarpur,MP,1762857
+Chhindwara,MP,2090306
+Damoh,MP,1263703
+Datia,MP,786375
+Dewas,MP,1563107
+Dhar,MP,2184672
+Dindori,MP,704218
+Guna,MP,1240938
+Gwalior,MP,2030543
+Harda,MP,570302
+Hoshangabad,MP,1240975
+Indore,MP,3272335
+Jabalpur,MP,2460714
+Jhabua,MP,1024091
+Katni,MP,1291684
+Khandwa,MP,1309443
+Khargone,MP,1872413
+Mandla,MP,1053522
+Mandsaur,MP,1339832
+Morena,MP,1965137
+Narsinghpur,MP,1092141
+Neemuch,MP,825958
+Niwari,MP,0
+Panna,MP,1016028
+Raisen,MP,1331699
+Rajgarh,MP,1546541
+Ratlam,MP,1454483
+Rewa,MP,2363744
+Sagar,MP,2378295
+Satna,MP,2228619
+Sehore,MP,1311008
+Seoni,MP,1378876
+Shahdol,MP,1064989
+Shajapur,MP,1512353
+Sheopur,MP,687952
+Shivpuri,MP,1725818
+Sidhi,MP,1126515
+Singrauli,MP,1178132
+Tikamgarh,MP,1444920
+Ujjain,MP,1986864
+Umaria,MP,643579
+Vidisha,MP,1458212
+Aizawl,MZ,404054
+Champhai,MZ,125370
+Kolasib,MZ,83054
+Lawngtlai,MZ,117444
+Lunglei,MZ,154094
+Mamit,MZ,85757
+Saiha,MZ,56366
+Serchhip,MZ,64875
+Dimapur,NL,379769
+Kiphire,NL,74033
+Kohima,NL,270063
+Longleng,NL,50593
+Mokokchung,NL,193171
+Mon,NL,259604
+Peren,NL,163294
+Phek,NL,163294
+Tuensang,NL,414801
+Wokha,NL,166239
+Zunheboto,NL,141014
+Angul,OR,1271703
+Balangir,OR,1648574
+Balasore,OR,2317419
+Bargarh,OR,1478833
+Bhadrak,OR,1506522
+Boudh,OR,439917
+Cuttack,OR,2618708
+Deogarh,OR,312164
+Dhenkanal,OR,1192948
+Gajapati,OR,575880
+Ganjam,OR,3520151
+Jagatsinghpur,OR,1136604
+Jajpur,OR,1826275
+Jharsuguda,OR,579499
+Kalahandi,OR,1573054
+Kandhamal,OR,731952
+Kendrapara,OR,1439891
+Kendujhar,OR,1802777
+Khordha,OR,2246341
+Koraput,OR,1376934
+Malkangiri,OR,612727
+Mayurbhanj,OR,2513895
+Nabarangapur,OR,1218762
+Nayagarh,OR,962215
+Nuapada,OR,606490
+Puri,OR,1697983
+Rayagada,OR,961959
+Sambalpur,OR,1044410
+Subarnapur,OR,652107
+Sundargarh,OR,2080664
+Amritsar,PB,2490891
+Barnala,PB,596294
+Bathinda,PB,1388859
+Faridkot,PB,618008
+Fatehgarh Sahib,PB,599814
+Fazilka,PB,1180483
+Ferozepur,PB,2026831
+Gurdaspur,PB,2299026
+Hoshiarpur,PB,1582793
+Jalandhar,PB,2181753
+Kapurthala,PB,817668
+Ludhiana,PB,3487882
+Mansa,PB,768808
+Moga,PB,992289
+Pathankot,PB,626154
+Patiala,PB,2892282
+Rupnagar,PB,683349
+S.A.S. Nagar,PB,986147
+Sangrur,PB,1654408
+Shahid Bhagat Singh Nagar,PB,614362
+Sri Muktsar Sahib,PB,902702
+Tarn Taran,PB,1120070
+Karaikal,PY,200222
+Mahe,PY,41816
+Puducherry,PY,950289
+Yanam,PY,55626
+Ajmer,RJ,2584913
+Alwar,RJ,3671999
+Banswara,RJ,1798194
+Baran,RJ,1223921
+Barmer,RJ,2604453
+Bharatpur,RJ,2549121
+Bhilwara,RJ,2410459
+Bikaner,RJ,2367745
+Bundi,RJ,1113725
+Chittorgarh,RJ,1544392
+Churu,RJ,2041172
+Dausa,RJ,1637226
+Dholpur,RJ,1207293
+Dungarpur,RJ,1388906
+Ganganagar,RJ,1969520
+Hanumangarh,RJ,1779650
+Jaipur,RJ,6663971
+Jaisalmer,RJ,672008
+Jalore,RJ,1830151
+Jhalawar,RJ,1411327
+Jhunjhunu,RJ,2139658
+Jodhpur,RJ,3685681
+Karauli,RJ,1458459
+Kota,RJ,1950491
+Nagaur,RJ,3309234
+Pali,RJ,2038533
+Pratapgarh,RJ,868231
+Rajsamand,RJ,1158283
+Sawai Madhopur,RJ,1338114
+Sikar,RJ,2677737
+Sirohi,RJ,1037185
+Tonk,RJ,1421711
+Udaipur,RJ,3067549
+East Sikkim,SK,281293
+North Sikkim,SK,43354
+South Sikkim,SK,146742
+West Sikkim,SK,136299
+Adilabad,TG,708952
+Bhadradri Kothagudem,TG,1304811
+Hyderabad,TG,3441992
+Jagtial,TG,983414
+Jangaon,TG,582457
+Jayashankar Bhupalapally,TG,712257
+Jogulamba Gadwal,TG,664971
+Kamareddy,TG,972625
+Karimnagar,TG,1016063
+Khammam,TG,1401639
+Komaram Bheem,TG,515835
+Mahabubabad,TG,1318110
+Mancherial,TG,807037
+Medak,TG,767428
+Medchal Malkajgiri,TG,2542203
+Mulugu,TG,294671
+Nagarkurnool,TG,893308
+Nalgonda,TG,1631399
+Narayanpet,TG,566874
+Nirmal,TG,709415
+Nizamabad,TG,1534428
+Peddapalli,TG,795332
+Rajanna Sircilla,TG,546121
+Ranga Reddy,TG,2551731
+Sangareddy,TG,1527628
+Siddipet,TG,993376
+Suryapet,TG,1099560
+Vikarabad,TG,881250
+Wanaparthy,TG,751553
+Warangal Rural,TG,716457
+Warangal Urban,TG,1135707
+Yadadri Bhuvanagiri,TG,726465
+Ariyalur,TN,752481
+Chengalpattu,TN,2556244
+Chennai,TN,7100000
+Coimbatore,TN,3472578
+Cuddalore,TN,2600880
+Dharmapuri,TN,1502900
+Dindigul,TN,2161367
+Erode,TN,2259608
+Kallakurichi,TN,1370281
+Kancheepuram,TN,1166401
+Kanyakumari,TN,1863178
+Karur,TN,1076588
+Krishnagiri,TN,1883731
+Madurai,TN,3991038
+Mayiladuthurai,TN,901000
+Nagapattinam,TN,1614069
+Namakkal,TN,1721179
+Nilgiris,TN,735071
+Perambalur,TN,564511
+Pudukkottai,TN,1918725
+Ramanathapuram,TN,1337560
+Ranipet,TN,1210277
+Salem,TN,3480008
+Sivaganga,TN,1341250
+Tenkasi,TN,1407627
+Thanjavur,TN,2402781
+Theni,TN,1243684
+Thiruvallur,TN,3725697
+Thiruvarur,TN,1268094
+Thoothukkudi,TN,1738376
+Tiruchirappalli,TN,2713858
+Tirunelveli,TN,1665253
+Tirupathur,TN,1111812
+Tiruppur,TN,2471222
+Tiruvannamalai,TN,2468965
+Vellore,TN,1614242
+Viluppuram,TN,2093003
+Virudhunagar,TN,1943309
+Dhalai,TR,377988
+Gomati,TR,436868
+Khowai,TR,327391
+North Tripura,TR,415946
+Sipahijala,TR,484233
+South Tripura,TR,433737
+Unokoti,TR,277335
+West Tripura,TR,917534
+Agra,UP,4380793
+Aligarh,UP,3673849
+Ambedkar Nagar,UP,2398709
+Amethi,UP,2549935
+Amroha,UP,1838771
+Auraiya,UP,1372287
+Ayodhya,UP,2468371
+Azamgarh,UP,4616509
+Baghpat,UP,1302156
+Bahraich,UP,2384239
+Ballia,UP,3223642
+Balrampur,UP,2149066
+Banda,UP,1799541
+Barabanki,UP,3257983
+Bareilly,UP,4465344
+Basti,UP,2461056
+Bhadohi,UP,1554203
+Bijnor,UP,3683896
+Budaun,UP,3712738
+Bulandshahr,UP,3498507
+Chandauli,UP,1952713
+Chitrakoot,UP,990626
+Deoria,UP,3098637
+Etah,UP,1761152
+Etawah,UP,1579160
+Farrukhabad,UP,1887577
+Fatehpur,UP,2632684
+Firozabad,UP,2496761
+Gautam Buddha Nagar,UP,1674714
+Ghaziabad,UP,4661452
+Ghazipur,UP,3622727
+Gonda,UP,3431386
+Gorakhpur,UP,4436275
+Hamirpur,UP,1104021
+Hapur,UP,1338211
+Hardoi,UP,4091380
+Hathras,UP,1565678
+Jalaun,UP,1670718
+Jaunpur,UP,4476072
+Jhansi,UP,2000755
+Kannauj,UP,1658005
+Kanpur Dehat,UP,1795092
+Kanpur Nagar,UP,4572951
+Kasganj,UP,1438156
+Kaushambi,UP,1596909
+Kushinagar,UP,3560830
+Lakhimpur Kheri,UP,4013634
+Lalitpur,UP,1218002
+Lucknow,UP,4588455
+Maharajganj,UP,2665292
+Mahoba,UP,876055
+Mainpuri,UP,1847194
+Mathura,UP,2541894
+Mau,UP,2205170
+Meerut,UP,3447405
+Mirzapur,UP,2494533
+Moradabad,UP,4773138
+Muzaffarnagar,UP,4138605
+Pilibhit,UP,2037225
+Pratapgarh,UP,3173752
+Prayagraj,UP,5959798
+Rae Bareli,UP,3404004
+Rampur,UP,2335398
+Saharanpur,UP,3464228
+Sambhal,UP,2217020
+Sant Kabir Nagar,UP,1714300
+Shahjahanpur,UP,3002376
+Shamli,UP,1274815
+Shrawasti,UP,1114615
+Siddharthnagar,UP,2553526
+Sitapur,UP,4474446
+Sonbhadra,UP,1862612
+Sultanpur,UP,3790922
+Unnao,UP,3110595
+Varanasi,UP,3682194
+Almora,UT,621927
+Bageshwar,UT,259840
+Chamoli,UT,391114
+Champawat,UT,259315
+Dehradun,UT,1698560
+Haridwar,UT,1927029
+Nainital,UT,955128
+Pauri Garhwal,UT,686527
+Pithoragarh,UT,485993
+Rudraprayag,UT,236857
+Tehri Garhwal,UT,616409
+Udham Singh Nagar,UT,1648367
+Uttarkashi,UT,329686
+Alipurduar,WB,1700000
+Bankura,WB,3596292
+Birbhum,WB,3502387
+Cooch Behar,WB,2822780
+Dakshin Dinajpur,WB,1670931
+Darjeeling,WB,1842034
+Hooghly,WB,5520389
+Howrah,WB,4841638
+Jalpaiguri,WB,3869675
+Jhargram,WB,1136548
+Kalimpong,WB,251642
+Kolkata,WB,4486679
+Malda,WB,3997970
+Murshidabad,WB,7102430
+Nadia,WB,5168488
+North 24 Parganas,WB,10082852
+Paschim Bardhaman,WB,2882031
+Paschim Medinipur,WB,5094238
+Purba Bardhaman,WB,4835532
+Purba Medinipur,WB,4417377
+Purulia,WB,2927965
+South 24 Parganas,WB,8153176
+Uttar Dinajpur,WB,3000849
