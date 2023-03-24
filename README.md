@@ -47,6 +47,24 @@ This repository features an analysis of the COVID-19 data focused on India. The 
 </ul>
 
 
+## Analysis
+
+<ul>
+  <li>The dataset includes columns such as population, confirmed cases, deceased cases, recovered cases, tested, and vaccinated.</li>
+  <li>To analyze the data, we have calculated several KPIs (Key Performance Indicators) including:</li>
+  <ul>
+    <li>Case fatality rate</li>
+    <li>Recovery rate</li>
+    <li>Total positive rate</li>
+    <li>Total confirmed cases</li>
+    <li>Total deceased cases</li>
+  </ul>
+  <li>Analyzed the states based on their vaccination coverage rates, testing ratio, confirmed cases, and monthly trends.</li>
+</ul>
+
+ 
+
+
 
 
 
