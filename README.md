@@ -74,6 +74,8 @@ This repository features an analysis of the COVID-19 data focused on India. The 
 
 ## Dashboard
 
+<img src="D:/Project Files/Covid 19 Project/Covid19 Dashboard Screenshot.JPG" alt="Dashboard">
+
 
 
 
