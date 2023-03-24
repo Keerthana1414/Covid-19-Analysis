@@ -72,9 +72,9 @@ This repository features an analysis of the COVID-19 data focused on India. The 
   <li>However, in states such as Nagaland, Meghalaya, Manipur, Jharkhand, and Bihar, less than 50% of the population have received at least one dose of the COVID-19 vaccine.</li>
 </ul>
 
-## Dashboard
 
-<img src="D:/Project Files/Covid 19 Project/Covid19 Dashboard Screenshot.JPG" alt="Dashboard">
+
+
 
 
 
