@@ -62,6 +62,22 @@ This repository features an analysis of the COVID-19 data focused on India. The 
   <li>Analyzed the states based on their vaccination coverage rates, testing ratio, confirmed cases, and monthly trends.</li>
 </ul>
 
+## Insights 
+
+<ul>
+  <li>Maharashtra, Kerala, Tamil Nadu, Karnataka, and Uttar Pradesh were among the states most severely affected by the COVID-19 pandemic in India.</li>
+  <li>A month-wise analysis shows that in May 2021, there were high numbers of confirmed cases and deaths due to COVID-19 in India, with approximately 75 lakh confirmed cases and 1 lakh deaths reported.</li>
+  <li>The case fatality rate for COVID-19 in India stands at 1%.</li>
+  <li>In states like Goa, Sikkim, Himachal Pradesh, Kerala, and Jammu & Kashmir, more than 70% of the population have received at least one dose of the COVID-19 vaccine.</li>
+  <li>However, in states such as Nagaland, Meghalaya, Manipur, Jharkhand, and Bihar, less than 50% of the population have received at least one dose of the COVID-19 vaccine.</li>
+</ul>
+
+## Dashboard
+
+
+
+
+
  
 
 
