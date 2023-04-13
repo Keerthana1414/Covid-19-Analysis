@@ -1,4 +1,4 @@
-# Covid-19 Data Analysis
+# Analyzing the Impact of Covid-19 in India
 
 <img src="https://www.samhsa.gov/sites/default/files/banner-covid.png" alt="Covid19">
 
