@@ -73,6 +73,7 @@ This repository features an analysis of the COVID-19 data focused on India. The 
 </ul>
 
 ### Dashboard
+https://3wfd6w-my.sharepoint.com/:x:/g/personal/keerthana_3wfd6w_onmicrosoft_com/EQAmPaDeLxZJlK_49DB0NNYBf_8TyzL8_R9JNRaO1NXFfQ?e=948YXD
 
 ![c1](https://github.com/Keerthana1414/Covid19DataAnalysis/assets/122422604/55d14eef-47ca-4386-82c8-b4b34cfba5ad)
 
