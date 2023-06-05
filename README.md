@@ -42,8 +42,8 @@ This repository features an analysis of the COVID-19 data focused on India. The 
     <li>https://data.covid19india.org/v4/min/data.min.json</li>
     <li>https://data.covid19india.org/v4/min/timeseries.min.json</li>
   </ul>
-  <li>To parse and clean the data, We used the pandas module. Specifically, We loaded the JSON data into a pandas DataFrame and then removed irrelevant columns using pandas functions.</li>
-  <li>After cleaning the data, We created CSV files.</li>
+  <li>The pandas module was used for parsing and cleaning the data. The JSON data was loaded into a pandas DataFrame, and appropriate pandas functions were employed to remove irrelevant columns.</li>
+  <li>After cleaning the data, CSV files were created to store the processed data.</li>
 </ul>
 
 
@@ -51,7 +51,7 @@ This repository features an analysis of the COVID-19 data focused on India. The 
 
 <ul>
   <li>The dataset includes columns such as population, confirmed cases, deceased cases, recovered cases, tested, and vaccinated.</li>
-  <li>To analyze the data, we have calculated several KPIs (Key Performance Indicators) including:</li>
+  <li>Calculated several KPIs (Key Performance Indicators) including:</li>
   <ul>
     <li>Case fatality rate</li>
     <li>Recovery rate</li>
