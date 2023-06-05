@@ -7,7 +7,7 @@ This repository features an analysis of the COVID-19 data focused on India. The 
 
 
 
-## User Manual
+### User Manual
 
 <table>
   <tr>
@@ -33,7 +33,7 @@ This repository features an analysis of the COVID-19 data focused on India. The 
 </table>
 
 
-## Data Collection and Preparation
+### Data Collection and Preparation
 
 
 <ul>
@@ -47,7 +47,7 @@ This repository features an analysis of the COVID-19 data focused on India. The 
 </ul>
 
 
-## Analysis
+### Analysis
 
 <ul>
   <li>The dataset includes columns such as population, confirmed cases, deceased cases, recovered cases, tested, and vaccinated.</li>
@@ -62,7 +62,7 @@ This repository features an analysis of the COVID-19 data focused on India. The 
   <li>Analyzed the states based on their vaccination coverage rates, testing ratio, confirmed cases, and monthly trends.</li>
 </ul>
 
-## Insights 
+### Insights 
 
 <ul>
   <li>Maharashtra, Kerala, Tamil Nadu, Karnataka, and Uttar Pradesh were among the states most severely affected by the COVID-19 pandemic in India.</li>
@@ -72,7 +72,7 @@ This repository features an analysis of the COVID-19 data focused on India. The 
   <li>However, in states such as Nagaland, Meghalaya, Manipur, Jharkhand, and Bihar, less than 50% of the population have received at least one dose of the COVID-19 vaccine.</li>
 </ul>
 
-## Dashboard
+### Dashboard
 
 ![c1](https://github.com/Keerthana1414/Covid19DataAnalysis/assets/122422604/55d14eef-47ca-4386-82c8-b4b34cfba5ad)
 
